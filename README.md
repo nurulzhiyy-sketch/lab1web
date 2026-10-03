@@ -122,60 +122,9 @@ dan target belajar.
 ](<07- komentar-1.png>)
 
 ---
-
-## 10. Jawaban Pertanyaan
-
-### 1. Apa fungsi deklarasi `<!DOCTYPE html>`?
-
-Untuk memberitahu browser bahwa dokumen menggunakan HTML5.
-
-### 2. Apa perbedaan tag, elemen, dan atribut?
-
-Tag adalah penanda HTML, elemen merupakan bagian HTML yang terdiri
-dari tag dan isi, sedangkan atribut merupakan informasi tambahan
-pada sebuah tag.
-
-### 3. Apa perbedaan `<p>` dengan `<br>`?
-
-`<p>` digunakan untuk membuat paragraf, sedangkan `<br>` digunakan
-untuk berpindah baris.
-
-### 4. Apa fungsi atribut `href`?
-
-Untuk menentukan alamat atau tujuan hyperlink.
-
-### 5. Apa perbedaan hyperlink internal dan eksternal?
-
-Hyperlink internal mengarah ke halaman dalam website yang sama,
-sedangkan hyperlink eksternal mengarah ke website lain.
-
-### 6. Apa fungsi `src` dan `alt` pada `<img>`?
-
-`src` digunakan untuk menentukan lokasi gambar, sedangkan `alt`
-digunakan untuk memberikan teks alternatif atau deskripsi gambar.
-
-### 7. Apa perbedaan `<ul>` dan `<ol>`?
-
-`<ul>` digunakan untuk membuat daftar tanpa nomor, sedangkan
-`<ol>` digunakan untuk membuat daftar berurutan.
-
-### 8. Apa yang terjadi jika path gambar pada `src` salah?
-
-Gambar tidak dapat ditampilkan pada browser.
-
-### 9. Mengapa heading h1 sampai h6 digunakan secara terstruktur?
-
-Agar judul dan subjudul pada halaman web tersusun dengan jelas
-sesuai tingkatannya.
-
-### 10. Apa fungsi komentar HTML?
-
-Komentar digunakan untuk memberikan catatan atau penanda pada kode
-dan tidak ditampilkan oleh browser.
-
 ---
 
-## 11. Struktur File
+## 10. Struktur File
 
 Struktur file praktikum yang dibuat adalah:
 
